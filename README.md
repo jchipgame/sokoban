@@ -29,7 +29,7 @@ The rules are simple. You can only walk or push. You cannot walk through walls o
 <video width="320" height="240" controls>
   <source src="https://github.com/jchipgame/sokoban/blob/master/ic_launcher-web-video.mp4" type="video/mp4">
   <source src="https://github.com/jchipgame/sokoban/blob/master/ic_launcher-web-video.avi" type="video/avi">
-  Your browser does not support the video tag.
+  <a href="https://www.youtube.com/watch?v=Rs8VLuUnh9U" target="youtube">https://www.youtube.com/watch?v=Rs8VLuUnh9U</a>
 </video>
 
 
