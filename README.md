@@ -1,6 +1,6 @@
-# Boxman (Sokoban) Classic
+# <img src="https://github.com/jchipgame/sokoban/blob/master/ic_launcher-web-small.png" width="30" height="30" /> Boxman (Sokoban) Classic
 
-<img src="https://github.com/jchipgame/sokoban/blob/master/ic_launcher-web-small.png" width="30" height="30" /> Free box-pushing puzzle game, with easy controls and 306 mentally stimulating levels. No ads.
+Free box-pushing puzzle game, with easy controls and 306 mentally stimulating levels. No ads.
 
 ### From Google Play
 
