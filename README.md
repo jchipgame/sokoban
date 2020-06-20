@@ -2,24 +2,21 @@
 
 Free box-pushing puzzle game, with easy controls and 306 mentally stimulating levels. No ads.
 
-<table cellpadding=0 width=100% >
+<table cellpadding=0>
 <tr>
 <td>
+
 ### From Google Play
 
 <a href="https://play.google.com/store/apps/details?id=com.jchip.boxman" target="googleplay">
   <img alt="Android app on Google Play" src="https://github.com/jchipgame/sokoban/blob/master/google_play.png" />
 </a>
-</td>
 <td>
-&nbsp;
-</td>
 <td>
 fff
 </td>
 </tr>
-</table>
-
+</tablr
 ### Description
 Boxman is a free implementation of the classic box-pushing puzzle game, Sokoban. Each level has the same objective; to push boxes to their destination locations. Although this may sound simple, the progressive difficulty of the levels will certainly demand creativity, imagination and perseverance.
 
