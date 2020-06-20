@@ -4,7 +4,7 @@ Free box-pushing puzzle game, with easy controls and 306 mentally stimulating le
 
 ### From Google Play
 
-<a href="https://play.google.com/store/apps/details?id=com.jchip.boxman">
+<a href="https://play.google.com/store/apps/details?id=com.jchip.boxman" target="newpage">
   <img alt="Android app on Google Play" src="https://github.com/jchipgame/sokoban/blob/master/google_play.png" />
 </a>
 
@@ -29,8 +29,11 @@ The rules are simple. You can only walk or push. You cannot walk through walls o
 <video width="320" height="240" controls>
   <source src="https://github.com/jchipgame/sokoban/blob/master/ic_launcher-web-video.mp4" type="video/mp4">
   <source src="https://github.com/jchipgame/sokoban/blob/master/ic_launcher-web-video.avi" type="video/avi">
-  <a href="https://www.youtube.com/watch?v=Rs8VLuUnh9U" target="youtube">https://www.youtube.com/watch?v=Rs8VLuUnh9U</a>
+  <a href="https://www.youtube.com/watch?v=Rs8VLuUnh9U" target="newpage">https://www.youtube.com/watch?v=Rs8VLuUnh9U</a>
 </video>
+
+### Web site
+<a href="http://www.jchipgame.com" target="newpage">http://www.jchipgame.com</a>
 
 
 
