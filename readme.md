@@ -1,4 +1,4 @@
-# <img src="https://github.com/jchipgame/sokoban/blob/master/ic_launcher-web-tiny.png" width="45" height="45" /> Boxman (Sokoban) Classic
+# <img src="https://github.com/jchipgame/sokoban/blob/master/ic_launcher-web-tiny.png" width="45" height="45" /> Sokoban (Boxman) Classic
 
 Free box-pushing puzzle game, with easy controls and 306 mentally stimulating levels. No ads.
 
@@ -30,7 +30,7 @@ The rules are simple. You can only walk or push. You cannot walk through walls o
   <a href="https://www.youtube.com/watch?v=Rs8VLuUnh9U" target="youttube">https://www.youtube.com/watch?v=Rs8VLuUnh9U</a>
 </video>
 
-### Website
+### Online Sokoban Game
 <a href="http://www.jchipgame.com" target="website">http://www.jchipgame.com</a>
 
 
