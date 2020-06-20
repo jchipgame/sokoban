@@ -9,7 +9,7 @@ Free box-pushing puzzle game, with easy controls and 306 mentally stimulating le
 </a>
 
 ### Description
-<img src="https://github.com/jchipgame/sokoban/blob/master/ic_launcher-web-small.png"/ width="60" height="60" > Boxman is a free implementation of the classic box-pushing puzzle game, Sokoban. Each level has the same objective; to push boxes to their destination locations. Although this may sound simple, the progressive difficulty of the levels will certainly demand creativity, imagination and perseverance.
+<img src="https://github.com/jchipgame/sokoban/blob/master/ic_launcher-web-small.png" width="60" height="60" /> Boxman is a free implementation of the classic box-pushing puzzle game, Sokoban. Each level has the same objective; to push boxes to their destination locations. Although this may sound simple, the progressive difficulty of the levels will certainly demand creativity, imagination and perseverance.
 The rules are simple. You can only walk or push. You cannot walk through walls or over boxes and you cannot pull. There are 306 free to play levels. Enjoy!
 
 <img src="https://github.com/jchipgame/sokoban/blob/master/boxman_game.jpg"/>
