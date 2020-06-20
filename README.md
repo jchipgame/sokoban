@@ -2,7 +2,7 @@
 
 Free box-pushing puzzle game, with easy controls and 306 mentally stimulating levels. No ads.
 
-<table cellpadding=0>
+<table>
 <tr>
 <td>
 
@@ -11,9 +11,11 @@ Free box-pushing puzzle game, with easy controls and 306 mentally stimulating le
 <a href="https://play.google.com/store/apps/details?id=com.jchip.boxman" target="googleplay">
   <img alt="Android app on Google Play" src="https://github.com/jchipgame/sokoban/blob/master/google_play.png" />
 </a>
+</td>
 <td>
-<td>
-fff
+<a href="https://play.google.com/store/apps/details?id=com.jchip.boxman" target="googleplay">
+  <img alt="Android app on Google Play" src="https://github.com/jchipgame/sokoban/blob/master/google_play.png" />
+</a>
 </td>
 </tr>
 </tablr
