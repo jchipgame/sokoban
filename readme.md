@@ -20,7 +20,7 @@ The rules are simple. You can only walk or push. You cannot walk through walls o
 * Intuitive controls to undo, move, and push boxes
 * Ability to save and review your path history at any stage
 * Cheap and easy access to the solution to each level
-* 300+ free levels of varying difficulty
+* 306 free levels of varying difficulty
 
 ### Watch video here
 
