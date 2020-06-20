@@ -30,7 +30,7 @@ The rules are simple. You can only walk or push. You cannot walk through walls o
   <a href="https://www.youtube.com/watch?v=Rs8VLuUnh9U" target="youttube">https://www.youtube.com/watch?v=Rs8VLuUnh9U</a>
 </video>
 
-### Web site
+### Website
 <a href="http://www.jchipgame.com" target="website">http://www.jchipgame.com</a>
 
 
