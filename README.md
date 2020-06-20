@@ -10,10 +10,7 @@ cellpadding=0 width=100%>
 	<img alt="Android app on Google Play" src="https://github.com/jchipgame/sokoban/blob/master/google_play.png" />
 </a>
 </td>
-<td>
-</td>
-<td>
-</td>
+
 <td>
 <a href="https://play.google.com/store/apps/details?id=com.jchip.boxman" target="googleplay">
 	<img alt="Android app on Google Play" src="https://github.com/jchipgame/sokoban/blob/master/c_launcher-web-small.png" />
