@@ -25,8 +25,7 @@ The rules are simple. You can only walk or push. You cannot walk through walls o
 ### Watch video here
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/jchipgame/sokoban/blob/master/ic_launcher-web-video.mp4" type="video/mp4">
-  <source src="https://github.com/jchipgame/sokoban/blob/master/ic_launcher-web-video.avi" type="video/avi">
+  <source src="https://www.youtube.com/watch?v=Rs8VLuUnh9U" type="video/avi">
   <a href="https://www.youtube.com/watch?v=Rs8VLuUnh9U" target="youttube">https://www.youtube.com/watch?v=Rs8VLuUnh9U</a>
 </video>
 
