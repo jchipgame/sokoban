@@ -2,10 +2,13 @@
 
 Free box-pushing puzzle game, with easy controls and 306 mentally stimulating levels. No ads.
 
-### From Google Play
+### Download
 
 <a href="https://play.google.com/store/apps/details?id=com.jchip.boxman" target="googleplay">
   <img alt="Android app on Google Play" src="https://github.com/jchipgame/sokoban/blob/master/google_play.png" />
+</a>
+<a href="https://apps.apple.com/us/app/sokoban-boxman-classic/id1546106967#?platform=iphone" target="applestore">
+  <img alt="Download on Apple Store" src="https://github.com/jchipgame/sokoban/blob/master/apple_store.png" />
 </a>
 
 ### Description
